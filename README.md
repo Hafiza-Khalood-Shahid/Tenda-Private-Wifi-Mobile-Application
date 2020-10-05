@@ -4,6 +4,10 @@
 https://trello.com/b/CwnuJGu0/high-fidelity-mobile-application
 
 # High Fidelity Prototype ScreenShots
+
+#Title :- Tenda Touch App
+#Features :- Compalint,Sign In,Account Info, Change Password, Device Reset,Backup and Reboot.
+#Why :- Because I know how to use This Application and its feature etc that's why I'm choosing this App for Prototype.Also this Application contain too many sacreens.
 ![Icon](https://user-images.githubusercontent.com/56819895/95057573-37c89a80-06ab-11eb-92ff-98cde08854dd.png)
 ![Sign_In](https://user-images.githubusercontent.com/56819895/95057585-3c8d4e80-06ab-11eb-81c8-3eddcb0949dc.png)
 ![Status](https://user-images.githubusercontent.com/56819895/95057616-47e07a00-06ab-11eb-9e74-dc6cbc29d813.png)
