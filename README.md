@@ -7,7 +7,7 @@ https://trello.com/b/CwnuJGu0/high-fidelity-mobile-application
 
 # Title :- Tenda Touch App
 # Features :- Compalint,Sign In,Account Info, Change Password, Device Reset,Backup and Reboot.
-# Why :- Because I know how to use This Application and its feature etc that's why I'm choosing this App for Prototype.Also this Application contain too many sacreens.Its Wifi Speed Is Fast and its App is best ans its Service is good.
+#Why :- Because I know how to use This Application and its feature etc that's why I'm choosing this App for Prototype.Its Wifi Speed Is Fast and its App is best ans its Service is good.The Main advantage of the wifi App is their mobility its much easier to carry around a lite weighted smart phone then a much heavier laptop spcially if you need to analyse multiple wireless network taking several measurement each time.This app for andriod offers arrange of useful feature intended to help you optimize your wifi network for maximum Performance and we have selected this app for your convenience.
 ![Icon](https://user-images.githubusercontent.com/56819895/95057573-37c89a80-06ab-11eb-92ff-98cde08854dd.png)
 ![Sign_In](https://user-images.githubusercontent.com/56819895/95057585-3c8d4e80-06ab-11eb-81c8-3eddcb0949dc.png)
 ![Status](https://user-images.githubusercontent.com/56819895/95057616-47e07a00-06ab-11eb-9e74-dc6cbc29d813.png)
